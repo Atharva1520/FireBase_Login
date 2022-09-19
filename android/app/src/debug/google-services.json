@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392198742430",
+    "project_id": "emailpassauth-1bb9d",
+    "storage_bucket": "emailpassauth-1bb9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392198742430:android:a28999cc9f137d5580368f",
+        "android_client_info": {
+          "package_name": "com.example.firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392198742430-88n97sqsf3vpk7qjjsjsa48hmru9qmda.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwj81fUxuEk_Vkrb4LEut1HES80tPrH0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392198742430-88n97sqsf3vpk7qjjsjsa48hmru9qmda.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
